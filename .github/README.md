@@ -15,3 +15,7 @@ The Most best results get archived via Usage of RAW CSS HTML and JS where you sh
 where it is needed. Additional you get Hooks for JS via HTML and Service Workers eg: HTML defined import maps and serviceWorker defined custom
 responses to load events of the JS Engine via fetch.
 
+Its the wrong assumption that you should ship a new serviceWorker when your files get updates
+You do not deploy a new HTTP server only because some files get updated?!?!?!?!?!?!?!?!?!?!!!
+
+
